@@ -59,8 +59,6 @@ python contact_book.py
 
 The repository includes screenshots demonstrating the working output of each application.
 
-## Author
-Anushka Saxena
 
 
 
